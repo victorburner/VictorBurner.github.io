@@ -38,6 +38,6 @@ Drag your desired image in the dropdown, and click commit changes. Then, type yo
 
 Make sure to hit Commit changes at the top right.
 ## Website Publication
-At this point, you should have a webpage and an image in your GitHub repo, we can begin your first release. Navigate to https://github.com/settings/pages
+At this point, you should have a webpage and an image in your GitHub repo, we can begin your first release. Navigate to your repository settings. 
 
-Select the branch drop down, select main, and click save.. 
+Select the branch drop down, select main, and click save. After a minute or two, the website will be uploaded, and you can click the provided link to visit it.
